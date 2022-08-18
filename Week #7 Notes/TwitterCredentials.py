@@ -1,0 +1,4 @@
+consumer_API_key = "R3zpLRyNMTniP3I6RJYIh7bEF"
+consumer_API_secret_key = "kniWSpJH18645bPHl3O0SHhMqO1zSDlmDeOFOgSFJ4tyCbYzm6"
+access_token = "1244015025267675141-eStB8yY6Ce1XTxt7vucYlWZbPDjg8j"
+access_token_secret = "7etDbFPgHYTUTI1ZQdq5XZmhd42Gx8BZxnJ0SmJPDaHwf"
